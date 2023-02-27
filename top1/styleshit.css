@@ -1,0 +1,186 @@
+*{
+	font-size: 22;
+}
+
+#p11{
+	color: #ae4d2a;
+}
+#p21{
+	color: #c79662;
+}
+#p31{
+	color: #dbbb9b;
+}
+#p41{
+	color: #cd7e26;
+}
+#p51{
+    color: #93df14;
+}
+#p61{
+	color: #1a8971;
+}
+#p71{
+	color: #402886;
+}
+#p81{
+	color: #19a756;
+}
+#p91{
+	color: #efb70a;
+	
+}
+
+#p101{
+	color: #1781b0;
+}
+
+#p111{color:#33d7a9;
+}
+
+#p121{
+	color: #bda049;
+	
+}
+
+#p131{
+	color:#7929d5;
+	
+}
+
+#p141{
+	color:#d92e92;
+}
+
+#p151{
+	color:#b8d22b;
+}
+
+#p161{
+	color:#9ed22b;
+}
+
+#p171{
+	color:#327880;
+}
+
+
+#b1{
+	background-color: #223918;
+	
+}
+
+#b2{
+	background-color: #5f0e4e;
+}
+
+#b3{
+	background-color: #6b5619;
+}
+
+#b4{
+background-color:#0f4938;
+} 
+#b5{
+	background-color:#3c7822;
+}
+
+#b6{
+	background-color: ##506845;
+}
+
+#b7{
+	background-color: #2c3d13;
+}
+
+
+#parentofi{
+	width:1220px;
+	height:700px;
+	background-image:url("nasa1.jpg");
+}
+#i1{
+	
+margin-left:0;
+background-image:url("MCEscherhomeleft.jpg");
+width:500px;
+height:700px;
+}
+
+#sonofi1{
+	margin-left:1220px;
+    background-image:url("lazarnaked.png");
+	background-color:pink;
+    width:185px;
+    height:700px;
+	
+}
+
+
+#i2{
+	margin-left:400px;
+    background-image:url("MCEscherhomecentre.jpg");
+    width:500px;
+    height:618px;
+	background-color:pink;
+}
+
+#i21{
+	background-image:url("fire.gif");
+    margin-left:-400px;
+    width:400px;
+    height:700px;
+	background-color:pink;
+	
+	
+}
+
+#i21dasissyBBChole{
+	background-image:url("fire.gif");
+   
+    width:640px;
+    height:700px;
+	background-color:pink;
+	
+	
+}
+#i1dasissyBBChole{
+	margin-left:640px;
+	width:730px;
+	height:700px;
+	
+	background-color:pink;
+}
+
+#i22{
+	background-image:url("smoke.gif");
+    margin-left:-400px;
+    width:400px;
+    height:350px;
+	background-color:pink;
+	background-repeat:no-repeat;
+	
+}
+
+
+#i3{
+	
+    background-image:url("bnwo.jpg");
+    width:1400px;
+    height:98px;
+	background-color:pink;
+}
+
+
+
+#parentofj{
+	margin-left: 80px;
+}
+
+#j1{
+	
+	margin-left:900;
+    background-image:url("MCEscherhomeextra.jpg");
+    width:500px;
+    height:716px;
+}
